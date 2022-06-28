@@ -1,0 +1,97 @@
+.tudo{
+    background: #09002B;
+}
+.fundo{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: -600px;
+    width: 2320px;
+    height:608px;
+}
+.menu{
+    position: absolute;
+    list-style: none;
+    float: left;
+    width: 670px;
+    height:35px;
+    align-items: flex;
+    left: 90px;
+    top: 30px;
+    color: black;
+    font-size: 17px;
+}
+.menu li{
+    position:relative;
+    float: left;
+    width: 130px;
+}
+.menu li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px 16px;
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-between;
+    justify-content: center;
+}
+.menu li a:hover{
+    background: rgb(83, 70, 231);
+    color:white;
+    border-radius: 20px;
+    text-shadow: 0px 0px 0px #4c2ec4;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titulo{
+    position: absolute;
+    transform: rotate(-30deg);
+    margin-left: 700px;
+    margin-top: 29px;
+    font-size: 33px;
+    font-family: cursive;
+    color: white;
+}
+.icons{
+    position: absolute;
+    list-style: none;
+    float: left;
+    width: 200px;
+    height:35px;
+    align-items: flex;
+    left: 90px;
+    top: 30px;
+    font-size: 17px;
+    display: flex;
+    font-family: sans-serif;
+    justify-content: space-between;
+    margin-left: 1100px;
+}   
+.icons .insta{
+    background: #4303A4;
+    border-radius: 9px;
+  
+}
+.icons .face{
+    background: #4303A4;
+    border-radius: 9px;
+}
+.icons .five{
+    background: #4303A4;
+    border-radius: 7px;
+}
+.text{
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    margin-top: 320px;
+    margin-left: 100px;
+}
+.night{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+    font-size: 40px;
+}
+.listen{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+    font-size: 20px;   
+}

@@ -1,0 +1,159 @@
+.tudo{
+    background: #09002B;
+}
+.retangulo{
+    width: 1400px;
+    height: 600px;
+    margin-top: 55px;
+    margin-left: 55px;
+    display: flex;
+    justify-content: space-between;
+    gap: 60px;
+}
+.quad1{
+    margin-top: 85px;
+    height: 430px;
+    background: linear-gradient(180deg, #3531A9 0%, #4303A4 100%);
+    border-radius: 40px;
+    transition: 0.6s;
+    cursor: pointer;
+}
+.quad1:hover{
+    background: #b8186d;
+    color:white;
+    border-radius: 200px;
+}
+.icon{
+    margin-top: 48px;
+    margin-left: 175px;
+    width: 80px;
+
+}
+.titulo{
+    color: #fff;
+    font-size: 40px;
+    margin-left: 75px;
+    font-family:'Courier New', Courier, monospace;
+}
+.sub{
+    color: #fff;
+    font-size: 19px;
+    margin-left: 11px;
+
+}
+.valor{
+    color: #fff;
+    font-size: 35px;
+    margin-left: 125px;
+    margin-top: 26px;
+}
+
+
+
+
+
+.quad2{
+    margin-top: 85px;
+    height: 430px;
+    background: linear-gradient(180deg, #3531A9 0%, #4303A4 100%);
+    border-radius: 40px;
+    transition: 0.6s;
+}
+
+.quad2:hover{
+    background: #6916a0;
+    color:white;
+    border-radius: 200px;
+}
+.icon2{
+    margin-top: 48px;
+    margin-left: 179px;
+    width: 80px;
+
+}
+.titulo2{
+    color: #fff;
+    font-size: 40px;
+    margin-left: 53px;
+    font-family:'Courier New', Courier, monospace;
+}
+.sub2{
+    color: #fff;
+    font-size: 19px;
+    margin-left: 11px;
+
+}
+.valor2{
+    color: #fff;
+    font-size: 35px;
+    margin-left: 125px;
+    margin-top: 26px;
+}
+
+
+
+
+
+.quad3{
+    margin-top: 85px;
+    height: 430px;
+    background: linear-gradient(180deg, #3531A9 0%, #4303A4 100%);
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.6s;
+}
+.quad3:hover{
+    background: #240991;
+    color:white;
+    border-radius: 200px;
+    text-shadow: 0px 0px 0px #4c2ec4;
+}
+
+.icon3{
+    margin-top: 48px;
+    margin-left: 179px;
+    width: 80px;
+
+}
+.titulo3{
+    color: #fff;
+    font-size: 40px;
+    margin-left: 67px;
+    font-family:'Courier New', Courier, monospace;
+}
+.sub3{
+    color: #fff;
+    font-size: 19px;
+    margin-left: 11px;
+
+}
+.valor3{
+    color: #fff;
+    font-size: 35px;
+    margin-left: 125px;
+    margin-top: 26px;
+}
+
+.buttom{
+    width: 160px;
+    height: 45px;
+    border-radius: 14px;
+    border: none;
+    background:linear-gradient(180deg, #C157AB 0%, #FB85A1 100%);
+    margin-left: 670px;
+    transition: 0.4s;
+}
+.buttom:hover{
+        background: #dc21c9;
+        color:white;
+        border-radius: 20px;
+        text-shadow: 0px 0px 0px #4c2ec4;
+    
+}
+.name{
+    color: #fff;
+    font-size: 16px;
+    margin-left: 6px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}

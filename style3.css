@@ -1,0 +1,64 @@
+.tudo{
+    background: #09002B;
+}
+
+.retangulo{
+    width: 1400px;
+    height: 600px;
+    margin-top: 55px;
+    margin-left: 55px;
+    border-radius:40px;
+    display: flex;
+    justify-content: space-between;
+    background: #160242;
+
+}
+
+.talk{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 694px;
+    width: 700px;
+    height: 550px;
+    border-radius: 40px;
+    background: url(talk.svg);
+}
+.titulo{
+    
+    width: 500px;
+    height: 100px;
+    margin-left: 60px;
+    margin-top: 160px;
+    font-size: 50px;
+    color: #fff;
+}
+.sub{
+    position: absolute;
+    margin-left: 67px;
+    margin-top: 280px;
+    color: #fff;
+    width: 340px;
+    height: 90px;
+    font-size: 20px;
+}
+.b1{
+    position: absolute;
+    width: 120px;
+    height: 40px;
+    margin-top: 410px;
+    margin-left: 120px;
+    border-radius: 9px;
+    border: none;
+    transition: 0.7s;
+    background: linear-gradient(180deg, #a08bf5 40%, #11024B 100%);
+}
+.b1:hover{
+    background:linear-gradient(180deg, #422d96 10%, #6f58ce 80%);
+    border-radius: 22px;
+    
+}
+.text{
+    color: #fff;
+    font-size: 17px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
