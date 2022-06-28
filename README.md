@@ -9,7 +9,8 @@ Mini project template
 # Plan1 01
 ![image](https://user-images.githubusercontent.com/88322749/176322259-406b2e93-1846-482a-8495-bacfd32209a0.png)
 # Plan1 02
-![image](https://user-images.githubusercontent.com/88322749/176322249-ef258e9f-d574-4f7c-aef9-f7da6ea3296f.png
+
+![image](https://user-images.githubusercontent.com/88322749/176322249-ef258e9f-d574-4f7c-aef9-f7da6ea3296f.png)
 # Plan1 03
 ![image](https://user-images.githubusercontent.com/88322749/176322267-1b37e5af-7522-411e-906f-f980be511b32.png)
 
